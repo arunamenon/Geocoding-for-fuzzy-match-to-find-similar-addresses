@@ -1,0 +1,2 @@
+# Geocoding-to-find-similar-addresses
+This tool helps match accounts/HCPs with each other based on distance between them. The tool uses geocodes from Open street maps (https://nominatim.openstreetmap.org/search) and US Census Bureau (https://geocoding.geo.census.gov/geocoder/locations/onelineaddress). It finds distance between the addresses based on the [haversine distance](https://en.wikipedia.org/wiki/Haversine_formula)
